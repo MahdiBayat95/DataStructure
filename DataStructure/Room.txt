@@ -1,0 +1,5 @@
+1-Not_Reserved-0-0-0-Main_Hall-14-0-0
+2-Not_Reserved-0-0-0-Exam_Hall-15-0-0
+3-Not_Reserved-0-0-0-Meeting_Room-5-0-0
+4-Not_Reserved-0-0-0-Design_Studio-16-0-0
+5-Not_Reserved-0-0-0-Tutorial_Room-12-0-0
